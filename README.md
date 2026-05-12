@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" 
+<img src="https://github.com/Madhu2150/Namma-Santhe-Ledger/blob/main/app/src/main/ic_launcher-playstore.png" 
      alt="Namma-Santhe Ledger Logo" 
      width="120" 
      height="120"
