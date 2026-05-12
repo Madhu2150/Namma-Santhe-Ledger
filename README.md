@@ -27,7 +27,6 @@
 [✨ Features](#-features) • 
 [🛠️ Tech Stack](#️-tech-stack) • 
 [🚀 Getting Started](#-getting-started) • 
-[📸 Screenshots](#-screenshots) •
 [🤝 Contributing](#-contributing)
 
 </div>
